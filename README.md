@@ -2,7 +2,7 @@
 A file sever is base on flask in python
 
 Dependence：
-1. python3
+1. python3.7
 2. flask
 
 Dnstruction of use：
