@@ -1,5 +1,7 @@
 # web_disk_python
 A file sever is base on flask in python
+Note：
+1. The system that can be used is Liunx！！！
 
 Dependence：
 1. python3.7
